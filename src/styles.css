@@ -13,3 +13,11 @@
 .navbar-bg {
   background-color: #989C94;
 }
+
+.card-img {
+  transition: transform 0.3s ease;
+}
+
+.card:hover .card-img {
+  transform: scale(1.1);
+}
