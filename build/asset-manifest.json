@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.15aeaeb2.css",
+    "main.js": "/react-portfolio/static/js/main.24839205.js",
+    "static/media/inneed.png": "/react-portfolio/static/media/inneed.2c055f08314920a23b84.png",
+    "static/media/E-Commerce.png": "/react-portfolio/static/media/E-Commerce.48c0c4db8df36b11f89e.png",
+    "static/media/weather_forecast.png": "/react-portfolio/static/media/weather_forecast.2fb6835a59ca3f2555b6.png",
+    "static/media/Tech-blog.png": "/react-portfolio/static/media/Tech-blog.8699a1130ac3dc2df4e3.png",
+    "static/media/daily-planner-img.png": "/react-portfolio/static/media/daily-planner-img.d76b37b5b8456b716cab.png",
+    "static/media/javascript_quiz.png": "/react-portfolio/static/media/javascript_quiz.ced51d413628c02cc396.png",
+    "static/media/Marvel-Typing-Trainer.png": "/react-portfolio/static/media/Marvel-Typing-Trainer.6fd9a55d38bcd7687b65.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.15aeaeb2.css.map": "/react-portfolio/static/css/main.15aeaeb2.css.map",
+    "main.24839205.js.map": "/react-portfolio/static/js/main.24839205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15aeaeb2.css",
+    "static/js/main.24839205.js"
+  ]
+}
