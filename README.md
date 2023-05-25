@@ -8,3 +8,8 @@ This is a portfolio application using React that renders different page componen
 ## Usage
 
 Use the navigation bar at the top of the page to select the tab that you would like to see displayed. If you click on the project images, you will be redirected to the respective github repository.
+
+
+## Link to deployed application
+
+[Link](https://cmeesh11.github.io/react-portfolio/)
